@@ -1,6 +1,6 @@
 ﻿namespace UberTracker
 {
-    partial class Form1
+    partial class MainForm : Form
     {
         /// <summary>
         ///  Required designer variable.
@@ -108,7 +108,7 @@
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -118,7 +118,7 @@
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
+            this.Name = "MainForm";
             this.Text = "UberTracker";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

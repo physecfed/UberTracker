@@ -5,7 +5,6 @@ C:\Users\physe\Documents\Projects\UberTracker\bin\Debug\net6.0-windows\UberTrack
 C:\Users\physe\Documents\Projects\UberTracker\bin\Debug\net6.0-windows\ref\UberTracker.dll
 C:\Users\physe\Documents\Projects\UberTracker\bin\Debug\net6.0-windows\UberTracker.pdb
 C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.csproj.AssemblyReference.cache
-C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.Form1.resources
 C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.csproj.GenerateResource.cache
 C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTrack
 C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\ref\UberTracker.dll
 C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.pdb
 C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.genruntimeconfig.cache
+C:\Users\physe\Documents\Projects\UberTracker\obj\Debug\net6.0-windows\UberTracker.MainForm.resources
