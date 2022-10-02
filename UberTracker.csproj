@@ -8,4 +8,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Chart.Windows" Version="20.3.0.47" />
+    <PackageReference Include="Syncfusion.Core.WinForms" Version="20.3.0.47" />
+    <PackageReference Include="Syncfusion.DataGridExport.WinForms" Version="20.3.0.47" />
+    <PackageReference Include="Syncfusion.SfDataGrid.WinForms" Version="20.3.0.47" />
+    <PackageReference Include="Syncfusion.SfInput.WinForms" Version="20.3.0.47" />
+    <PackageReference Include="Syncfusion.Shared.Base" Version="20.3.0.47" />
+    <PackageReference Include="Syncfusion.Shared.Windows" Version="19.3.0.48" />
+  </ItemGroup>
+
 </Project>

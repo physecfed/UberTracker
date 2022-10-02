@@ -45,6 +45,36 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Syncfusion.Chart.Windows": {
+              "target": "Package",
+              "version": "[20.3.0.47, )"
+            },
+            "Syncfusion.Core.WinForms": {
+              "target": "Package",
+              "version": "[20.3.0.47, )"
+            },
+            "Syncfusion.DataGridExport.WinForms": {
+              "target": "Package",
+              "version": "[20.3.0.47, )"
+            },
+            "Syncfusion.SfDataGrid.WinForms": {
+              "target": "Package",
+              "version": "[20.3.0.47, )"
+            },
+            "Syncfusion.SfInput.WinForms": {
+              "target": "Package",
+              "version": "[20.3.0.47, )"
+            },
+            "Syncfusion.Shared.Base": {
+              "target": "Package",
+              "version": "[20.3.0.47, )"
+            },
+            "Syncfusion.Shared.Windows": {
+              "target": "Package",
+              "version": "[19.3.0.48, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

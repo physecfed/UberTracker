@@ -1,0 +1,2 @@
+# exclude Syncfusion DLLs pulled via NuGet
+*.dll

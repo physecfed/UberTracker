@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "9sFnqtXb56rizXX64DYn2k1BwY7I71i1fI2gr9V3eFkdTrwJvktbdKCbp4d+7WNTBgZiY8GGzQTEwtEILlYyjA==",
+  "dgSpecHash": "m5cYmrCWjVVkrw1nZ9VkTS/cx88Igm6VVgO1iLonO/uKqMZcapvH/d0Q9jLKKCbxqceSCCxf6ejnQNamJSTEyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.chart.base\\20.3.0.47\\syncfusion.chart.base.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.chart.windows\\20.3.0.47\\syncfusion.chart.windows.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.compression.base\\20.3.0.47\\syncfusion.compression.base.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.core.winforms\\20.3.0.47\\syncfusion.core.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.data.winforms\\20.3.0.47\\syncfusion.data.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.datagridexport.winforms\\20.3.0.47\\syncfusion.datagridexport.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.datasource.winforms\\20.3.0.47\\syncfusion.datasource.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.gridcommon.winforms\\20.3.0.47\\syncfusion.gridcommon.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.grouping.base\\20.3.0.47\\syncfusion.grouping.base.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.licensing\\20.3.0.47\\syncfusion.licensing.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.pdf.winforms\\20.3.0.47\\syncfusion.pdf.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.sfdatagrid.winforms\\20.3.0.47\\syncfusion.sfdatagrid.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.sfinput.winforms\\20.3.0.47\\syncfusion.sfinput.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.sflistview.winforms\\20.3.0.47\\syncfusion.sflistview.winforms.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.shared.base\\20.3.0.47\\syncfusion.shared.base.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.shared.windows\\19.3.0.48\\syncfusion.shared.windows.19.3.0.48.nupkg.sha512",
+    "C:\\Users\\physe\\.nuget\\packages\\syncfusion.xlsio.winforms\\20.3.0.47\\syncfusion.xlsio.winforms.20.3.0.47.nupkg.sha512"
+  ],
   "logs": []
 }
