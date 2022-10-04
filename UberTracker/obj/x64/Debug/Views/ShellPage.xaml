@@ -1,0 +1,76 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="UberTracker.Views.ShellPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:behaviors="using:UberTracker.Behaviors"
+    xmlns:winui="using:Microsoft.UI.Xaml.Controls"
+    xmlns:helpers="using:UberTracker.Helpers"
+    xmlns:views="using:UberTracker.Views"
+    xmlns:ic="using:Microsoft.Xaml.Interactions.Core"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    mc:Ignorable="d">
+
+    <i:Interaction.Behaviors>
+        <ic:EventTriggerBehavior EventName="Loaded">
+            <ic:InvokeCommandAction x:ConnectionId='2'                                            />
+        </ic:EventTriggerBehavior>
+    </i:Interaction.Behaviors>
+
+    <winui:NavigationView x:ConnectionId='3'
+        x:Name="navigationView"
+        IsBackButtonVisible="Visible"
+                                                                     
+                                                               
+        IsSettingsVisible="False"
+        Background="{ThemeResource SystemControlBackgroundAltHighBrush}">
+        <winui:NavigationView.MenuItems>
+            <!--
+            TODO WTS: Change the symbols for each item as appropriate for your app
+            More on Segoe UI Symbol icons: https://docs.microsoft.com/windows/uwp/style/segoe-ui-symbol-font
+            Or to use an IconElement instead of a Symbol see https://github.com/Microsoft/WindowsTemplateStudio/blob/release/docs/UWP/projectTypes/navigationpane.md
+            Edit String/en-US/Resources.resw: Add a menu item title for each page
+            -->
+            <winui:NavigationViewItem x:Uid="Shell_Main" Content="Overview" Icon="Document" helpers:NavHelper.NavigateTo="views:MainPage" />
+            <winui:NavigationViewItem x:Uid="Shell_Logbook" Content="Logbook" Icon="Document" helpers:NavHelper.NavigateTo="views:LogbookPage" />
+            <winui:NavigationViewItemSeparator />
+            <winui:NavigationViewItemHeader Content="Summaries" />
+            <winui:NavigationViewItem x:Uid="Shell_DailySummary" Content="Daily" Icon="Document" helpers:NavHelper.NavigateTo="views:DailySummaryPage" />
+            <winui:NavigationViewItem x:Uid="Shell_WeeklySummary" Content="Weekly" Icon="Document" helpers:NavHelper.NavigateTo="views:WeeklySummaryPage" />
+            <winui:NavigationViewItem x:Uid="Shell_MonthlySummary" Content="Monthly" Icon="Document" helpers:NavHelper.NavigateTo="views:MonthlySummaryPage" />
+            <winui:NavigationViewItemSeparator />
+            <winui:NavigationViewItemHeader Content="Assets &amp; Expenses" />
+            <winui:NavigationViewItem x:Uid="Shell_Vehicles" Content="Vehicles" Icon="Document" helpers:NavHelper.NavigateTo="views:VehiclesPage" />
+            <winui:NavigationViewItem x:Uid="Shell_Mileage" Content="Mileage Deductions" Icon="Document" helpers:NavHelper.NavigateTo="views:MileagePage" />
+            <winui:NavigationViewItem x:Uid="Shell_Miscellaneous" Content="Miscellaneous &amp; Equipment" Icon="Document" helpers:NavHelper.NavigateTo="views:MiscellaneousPage" />
+            <winui:NavigationViewItemSeparator />
+            <winui:NavigationViewItemHeader Content="Analysis &amp; Statistics" />
+            <winui:NavigationViewItem x:Uid="Shell_Charts" Content="Charts" Icon="Document" helpers:NavHelper.NavigateTo="views:ChartsPage" />
+            <winui:NavigationViewItem x:Uid="Shell_Statistics" Content="Statistics" Icon="Document" helpers:NavHelper.NavigateTo="views:StatisticsPage" />
+            <winui:NavigationViewItem x:Uid="Shell_Reports" Content="Reports" Icon="Document" helpers:NavHelper.NavigateTo="views:ReportsPage" />
+        </winui:NavigationView.MenuItems>
+        <i:Interaction.Behaviors>
+            <behaviors:NavigationViewHeaderBehavior x:ConnectionId='4'
+                                                                                >
+                <behaviors:NavigationViewHeaderBehavior.DefaultHeaderTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <TextBlock
+                                Text="{Binding}"
+                                Style="{ThemeResource TitleTextBlockStyle}"
+                                Margin="{StaticResource SmallLeftRightMargin}" />
+                        </Grid>
+                    </DataTemplate>
+                </behaviors:NavigationViewHeaderBehavior.DefaultHeaderTemplate>
+            </behaviors:NavigationViewHeaderBehavior>
+            <ic:EventTriggerBehavior EventName="ItemInvoked">
+                <ic:InvokeCommandAction x:ConnectionId='5'                                                 />
+            </ic:EventTriggerBehavior>
+        </i:Interaction.Behaviors>
+        <Grid>
+            <Frame x:ConnectionId='7' x:Name="shellFrame" />
+        </Grid>
+    </winui:NavigationView>
+</Page>
+

@@ -1,3 +1,6 @@
-# exclude Syncfusion DLLs pulled via NuGet
 *.dll
 conn_string.txt
+UberTracker/bin/x64/Debug/AppX/*
+*.g.cs 
+*.g.i.cs 
+*.xbf

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker\\UberTracker.csproj": {}
+    "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker\\UberTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj": {
+    "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj",
+        "projectUniqueName": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj",
         "projectName": "UberTracker.Core",
-        "projectPath": "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj",
+        "projectPath": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj",
         "packagesPath": "C:\\Users\\physe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker.Core\\obj\\",
+        "outputPath": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker\\UberTracker.csproj": {
+    "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker\\UberTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker\\UberTracker.csproj",
+        "projectUniqueName": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker\\UberTracker.csproj",
         "projectName": "UberTracker",
-        "projectPath": "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker\\UberTracker.csproj",
+        "projectPath": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker\\UberTracker.csproj",
         "packagesPath": "C:\\Users\\physe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker\\obj\\",
+        "outputPath": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -118,8 +118,8 @@
         "frameworks": {
           "uap10.0.18362": {
             "projectReferences": {
-              "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj": {
-                "projectPath": "C:\\Users\\physe\\Documents\\Projects\\VS2019\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj"
+              "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj": {
+                "projectPath": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\UberTracker.Core\\UberTracker.Core.csproj"
               }
             }
           }

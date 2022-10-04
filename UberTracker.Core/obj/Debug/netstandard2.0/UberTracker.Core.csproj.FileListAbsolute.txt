@@ -8,3 +8,13 @@ C:\Users\physe\Documents\Projects\VS2019\UberTracker\UberTracker.Core\obj\Debug\
 C:\Users\physe\Documents\Projects\VS2019\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.csproj.CoreCompileInputs.cache
 C:\Users\physe\Documents\Projects\VS2019\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.dll
 C:\Users\physe\Documents\Projects\VS2019\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.pdb
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\bin\Debug\netstandard2.0\UberTracker.Core.deps.json
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\bin\Debug\netstandard2.0\UberTracker.Core.dll
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\bin\Debug\netstandard2.0\UberTracker.Core.pdb
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.csproj.AssemblyReference.cache
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.AssemblyInfoInputs.cache
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.AssemblyInfo.cs
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.dll
+C:\Users\physe\Documents\Projects\UberTracker\UberTracker.Core\obj\Debug\netstandard2.0\UberTracker.Core.pdb
