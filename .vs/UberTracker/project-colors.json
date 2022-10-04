@@ -5,7 +5,17 @@
       "ProjectGuid": "686753e6-cd9b-43fc-8641-478b0bd68b93",
       "DisplayName": "UberTracker",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "84a98fcb-d1bf-4d94-876b-393393a0abf3": {
+      "ProjectGuid": "84a98fcb-d1bf-4d94-876b-393393a0abf3",
+      "DisplayName": "UberTracker",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
