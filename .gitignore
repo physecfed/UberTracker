@@ -1,7 +1,7 @@
 *.dll
 conn_string.txt
-UberTracker/bin/x64/Debug/AppX/*
-UberTracker/bin/x64/Debug/*
+UberTracker/bin/x64/Debug/
+UberTracker/bin/x86/Debug/
 *.g.cs 
 *.g.i.cs 
 *.xbf
