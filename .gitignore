@@ -1,2 +1,3 @@
 # exclude Syncfusion DLLs pulled via NuGet
 *.dll
+conn_string.txt

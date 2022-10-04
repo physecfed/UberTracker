@@ -13,9 +13,11 @@
         "packagesPath": "C:\\Users\\physe\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\physe\\Documents\\Projects\\UberTracker\\obj\\",
         "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.4.0.38\\ToolboxNuGetPackages"
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\19.4.0.38\\ToolboxNuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
           "C:\\Users\\physe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -24,76 +26,54 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "uap10.0.17763"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "uap10.0.17763": {
             "projectReferences": {}
           }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "uap10.0.17763": {
           "dependencies": {
-            "Syncfusion.Chart.Windows": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
-              "version": "[20.3.0.47, )"
-            },
-            "Syncfusion.Core.WinForms": {
-              "target": "Package",
-              "version": "[20.3.0.47, )"
-            },
-            "Syncfusion.DataGridExport.WinForms": {
-              "target": "Package",
-              "version": "[20.3.0.47, )"
-            },
-            "Syncfusion.SfDataGrid.WinForms": {
-              "target": "Package",
-              "version": "[20.3.0.47, )"
-            },
-            "Syncfusion.SfInput.WinForms": {
-              "target": "Package",
-              "version": "[20.3.0.47, )"
-            },
-            "Syncfusion.Shared.Base": {
-              "target": "Package",
-              "version": "[20.3.0.47, )"
-            },
-            "Syncfusion.Shared.Windows": {
-              "target": "Package",
-              "version": "[19.3.0.48, )"
+              "version": "[6.2.12, )"
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
         }
       }
     }
