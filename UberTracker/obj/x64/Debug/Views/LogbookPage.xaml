@@ -4,11 +4,16 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:syncfusion="using:Syncfusion.UI.Xaml.Grid"
     Style="{StaticResource PageStyle}"
     mc:Ignorable="d">
     <Grid x:ConnectionId='2' x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
-        <Grid
-            Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+        <Grid Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
             <CommandBar>
                 <CommandBar.Content>
                     <Grid/>
@@ -18,6 +23,7 @@
                 <AppBarButton Icon="Delete" Label="Delete"/>
                 <AppBarButton Icon="Share" Label="Export"/>
             </CommandBar>
+            <syncfusion:SfDataGrid x:ConnectionId='3' x:Name="dataGrid" />
             <!--
                 The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
                 Place your content here.

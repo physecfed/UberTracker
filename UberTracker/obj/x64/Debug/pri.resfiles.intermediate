@@ -1,5 +1,8 @@
+C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Assemblies for Universal Windows\10.0\Syncfusion.Data.UWP.pri
+C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Assemblies for Universal Windows\10.0\Syncfusion.SfGrid.UWP.pri
+C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Assemblies for Universal Windows\10.0\Syncfusion.SfInput.UWP.pri
+C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Assemblies for Universal Windows\10.0\Syncfusion.SfShared.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.Calculate.UWP.pri
-C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.Data.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.DocIO.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.ExcelChartToImageConverter.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.OfficeChartToImageConverter.UWP.pri
@@ -19,13 +22,11 @@ C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\U
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfDockingManager.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGantt.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGauge.UWP.pri
-C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGridCommon.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGridConverter.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGroupBar.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfHeatMap.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfHubTile.UWP.pri
-C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfInput.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfKanban.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfMaps.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfMenu.UWP.pri
@@ -45,7 +46,6 @@ C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\U
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRotator.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.UWP.pri
-C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfShared.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSmithChart.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSpellChecker.UWP.pri
 C:\Program Files (x86)\Syncfusion\Essential Studio\Universal Windows\19.4.0.38\Universal Windows\10.0\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSpreadsheet.UWP.pri
