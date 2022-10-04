@@ -15,7 +15,12 @@
       "ProjectGuid": "84a98fcb-d1bf-4d94-876b-393393a0abf3",
       "DisplayName": "UberTracker",
       "ColorIndex": 1
+    },
+    "d6b871ab-68f1-408c-b4d0-afaf1104b048": {
+      "ProjectGuid": "d6b871ab-68f1-408c-b4d0-afaf1104b048",
+      "DisplayName": "UberTracker",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
