@@ -14,7 +14,7 @@
                 <RowDefinition Height="2*" />
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-            <CommandBar>
+            <CommandBar Grid.Row="0">
                 <CommandBar.Content>
                     <Grid/>
                 </CommandBar.Content>
@@ -23,7 +23,7 @@
                 <AppBarButton Icon="Delete" Label="Delete"/>
                 <AppBarButton Icon="Share" Label="Export"/>
             </CommandBar>
-            <syncfusion:SfDataGrid x:ConnectionId='3' x:Name="dataGrid" />
+            <syncfusion:SfDataGrid x:ConnectionId='3' x:Name="dataGrid" Grid.Row="1" />
             <!--
                 The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
                 Place your content here.
